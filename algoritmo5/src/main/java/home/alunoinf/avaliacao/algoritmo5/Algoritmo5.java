@@ -6,7 +6,7 @@ package home.alunoinf.avaliacao.algoritmo5;
 public class Algoritmo5 {
 
     /**
-     * Classe para calcular potencia de números naturais utilizando mutiplicacao.
+     * Classe para calcular potencia de números naturais utilizando multiplicacao.
      * @param x Base.
      * @param y Expoente.
      * @return Potencia x^y

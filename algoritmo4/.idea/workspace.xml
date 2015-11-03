@@ -64,10 +64,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="pom.xml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="25" selection-start="558" selection-end="558" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="360">
+            <state line="13" column="18" selection-start="417" selection-end="610" vertical-scroll-proportion="0.33854166" vertical-offset="0" max-vertical-offset="576">
               <folding />
             </state>
           </provider>
@@ -82,10 +82,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Algoritmo4Test.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Algoritmo4Test.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/home/alunoinf/avaliacao/algoritmo4/Algoritmo4Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="0" selection-start="703" selection-end="703" vertical-scroll-proportion="0.625" vertical-offset="0" max-vertical-offset="576">
+            <state line="3" column="22" selection-start="92" selection-end="92" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="450">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -509,12 +509,12 @@
       <changelist id="cb020a24-8ddc-45bf-b459-103e6bfeda2c" name="Default" comment="" />
       <created>1446569799374</created>
       <updated>1446569799374</updated>
-      <workItem from="1446569803795" duration="818000" />
+      <workItem from="1446569803795" duration="1649000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="818000" />
+    <option name="totallyTimeSpent" value="1649000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="769" y="23" width="1314" height="1000" extended-state="0" />
@@ -569,13 +569,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="25" selection-start="558" selection-end="558" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="360">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/home/alunoinf/avaliacao/algoritmo4/Algoritmo4.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="5" column="14" selection-start="125" selection-end="125" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
@@ -585,10 +578,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/home/alunoinf/avaliacao/algoritmo4/Algoritmo4Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="0" selection-start="703" selection-end="703" vertical-scroll-proportion="0.625" vertical-offset="0" max-vertical-offset="576">
+        <state line="3" column="22" selection-start="92" selection-end="92" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="450">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="18" selection-start="417" selection-end="610" vertical-scroll-proportion="0.33854166" vertical-offset="0" max-vertical-offset="576">
+          <folding />
         </state>
       </provider>
     </entry>
