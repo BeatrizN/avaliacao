@@ -11,12 +11,23 @@
     <name>Exemplos Construção de Software</name>
 
     <modules>
-		<module>paridade</module>
-		<module>calendario</module>
-		<module>funcoes</module>
-                <module>produto</module>
-		<module>primos</module>
-		<module>logaritmo</module>
+		<module>algoritmo1</module>
+		<module>algoritmo2</module>
+		<module>algoritmo3</module>
+		<module>algoritmo4</module>
+		<module>algoritmo5</module>
+		<module>algoritmo6</module>
+		<module>algoritmo7</module>
+		<module>algoritmo8</module>
+		<module>algoritmo9</module>
+		<module>algoritmo10</module>
+		<module>algoritmo11</module>
+		<module>algoritmo12</module>
+		<module>algoritmo13</module>
+		<module>algoritmo14</module>
+		<module>algoritmo15</module>
+		<module>algoritmo16</module>
+		<module>algoritmo17</module>
     </modules>
 
     <build>
