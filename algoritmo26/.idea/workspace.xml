@@ -67,7 +67,7 @@
       <file leaf-file-name="pom.xml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="0" selection-start="613" selection-end="613" vertical-scroll-proportion="0.2924312" vertical-offset="0" max-vertical-offset="872">
+            <state line="18" column="10" selection-start="624" selection-end="624" vertical-scroll-proportion="0.30963302" vertical-offset="0" max-vertical-offset="872">
               <folding />
             </state>
           </provider>
@@ -76,7 +76,7 @@
       <file leaf-file-name="Algoritmo26.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/home/alunoinf/avaliacao/algoritmo26/Algoritmo26.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="8" selection-start="504" selection-end="504" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="600">
+            <state line="17" column="0" selection-start="496" selection-end="496" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="600">
               <folding />
             </state>
           </provider>
@@ -488,15 +488,15 @@
       <created>1446657645605</created>
       <updated>1446657645605</updated>
       <workItem from="1446657648632" duration="330000" />
-      <workItem from="1446759947546" duration="44000" />
+      <workItem from="1446759947546" duration="128000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="374000" />
+    <option name="totallyTimeSpent" value="458000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="260" y="18" width="1400" height="1000" extended-state="1" />
+    <frame x="260" y="18" width="1400" height="1000" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -573,7 +573,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/home/alunoinf/avaliacao/algoritmo26/Algoritmo26.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="8" selection-start="504" selection-end="504" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="600">
+        <state line="17" column="0" selection-start="496" selection-end="496" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="600">
           <folding />
         </state>
       </provider>
@@ -589,7 +589,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="0" selection-start="613" selection-end="613" vertical-scroll-proportion="0.2924312" vertical-offset="0" max-vertical-offset="872">
+        <state line="18" column="10" selection-start="624" selection-end="624" vertical-scroll-proportion="0.30963302" vertical-offset="0" max-vertical-offset="872">
           <folding />
         </state>
       </provider>

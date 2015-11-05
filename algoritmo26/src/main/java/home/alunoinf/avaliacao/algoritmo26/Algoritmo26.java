@@ -15,7 +15,7 @@ public class Algoritmo26 {
         if ((x <= 0) || (y <= 0)) {
             throw new IllegalArgumentException("Número inválido");
         }
-        
+
         int d = divideSubtracao(x, y);
         return x - (d * y);
     }

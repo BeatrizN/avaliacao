@@ -18,7 +18,7 @@ public class Algoritmo5 {
 
         int i = 1;
         int p = 1;
-        
+
         while (i <= y) {
             p = p * x;
             i++;

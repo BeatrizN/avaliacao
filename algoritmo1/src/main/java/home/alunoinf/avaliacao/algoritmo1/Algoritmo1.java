@@ -4,7 +4,7 @@ package home.alunoinf.avaliacao.algoritmo1;
  * Classe que retorna dia da semana usando uma data de entrada (dd/mm/aaaa).
  */
 public class Algoritmo1 {
-    
+
     /**
      * Classe que retorna dia da semana usando uma data de entrada (dd/mm/aaaa).
      * @param d Dia.
