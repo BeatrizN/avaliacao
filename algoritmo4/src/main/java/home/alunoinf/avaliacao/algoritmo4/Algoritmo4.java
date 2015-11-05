@@ -11,13 +11,14 @@ public class Algoritmo4 {
      * @param b segundo fator.
      * @return Produto de a e b.
      */
-    public static int algoritmo4(int a, int b){
+    public static int algoritmo4(int a, int b) {
         if ((a < 0) || (b < 0)) {
             throw new IllegalArgumentException("Número inválido");
         }
 
         int i = 1;
         int s = 0;
+
         while (i <= b) {
             s += a;
             i++;
