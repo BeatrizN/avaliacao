@@ -4,6 +4,7 @@ import org.junit.Assert;
 import org.junit.Test;
 
 public class Algoritmo24Test {
+
     @Test(expected = IllegalArgumentException.class)
     public void testPrimeiroParametroInvalido() throws Exception {
         Algoritmo24.algoritmo24(-5, 3);
@@ -13,6 +14,7 @@ public class Algoritmo24Test {
     public void testSegundoParametroInvalido() throws Exception {
         Algoritmo24.algoritmo24(2, -1);
     }
+
     @Test
     public void testCasoTrivial() {
         Assert.assertEquals(5, Algoritmo24.algoritmo24(10, 2));
