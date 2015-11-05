@@ -1,7 +1,7 @@
 package home.alunoinf.avaliacao.algoritmo5;
 
-        import org.junit.Assert;
-        import org.junit.Test;
+import org.junit.Assert;
+import org.junit.Test;
 
 public class Algoritmo5Test {
 
