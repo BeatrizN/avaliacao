@@ -12,13 +12,13 @@ public class Algoritmo28 {
      * @param k Número de casas decimais.
      * @return Quociente.
      */
-    public static int algoritmo28(int a, int b, int k) {
+    public static void algoritmo28(int a, int b, int k) {
         if ((a <= 0) || (b <= 0)) {
             throw new IllegalArgumentException("Número inválido");
         }
 
         int d = divideSomas(a, b);
-        System.out.printf("%d", d);
+        System.out.print(d);
         int r = mod(a, b);
 
         if(r != 0) {
@@ -28,13 +28,10 @@ public class Algoritmo28 {
         while ((r != 0) && (k > 0)) {
             r = produto(10, r);
             d = divideSomas(r, b);
-            System.out.printf("%d", d);
+            System.out.print(d);
             r = mod(r, b);
             k--;
         }
-
-        System.out.printf("\n");
-        return d;
     }
 
     public static int mod(int x, int y) {

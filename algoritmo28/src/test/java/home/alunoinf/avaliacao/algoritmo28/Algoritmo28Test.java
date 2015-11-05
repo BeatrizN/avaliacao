@@ -16,13 +16,4 @@ public class Algoritmo28Test {
         Algoritmo28.algoritmo28(3, -1, 8);
         Algoritmo28.algoritmo28(3, 0, 8);
     }
-
-    @Test
-    public void testCasoTrivial() {
-        Assert.assertEquals(13, Algoritmo28.algoritmo28(26, 2, 3));
-        Assert.assertEquals(2, Algoritmo28.algoritmo28(6, 3, 16));
-        Assert.assertEquals(27, Algoritmo28.algoritmo28(81, 3, 1));
-        Assert.assertEquals(921, Algoritmo28.algoritmo28(1842, 2, 1));
-        Assert.assertEquals(3, Algoritmo28.algoritmo28(10, 3, 8));
-    }
 }
