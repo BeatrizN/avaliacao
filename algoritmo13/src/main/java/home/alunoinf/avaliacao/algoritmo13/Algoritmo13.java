@@ -18,8 +18,9 @@ public class Algoritmo13 {
 
         int i = 2;
         int s = 1;
+
         while (i <= n) {
-            s = s + 1/i;
+            s += 1/i;
             i++;
         }
 
