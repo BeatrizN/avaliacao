@@ -28,6 +28,13 @@ public class Algoritmo6 {
     }
 
     public static int produto(int a, int b) {
+
+        /**
+         * Classe para calcular produto de dois numeros naturais utilizando soma.
+         * @param a primeiro fator.
+         * @param b segundo fator.
+         * @return Produto de a e b.
+         */
         int i = 1;
         int s = 0;
 
