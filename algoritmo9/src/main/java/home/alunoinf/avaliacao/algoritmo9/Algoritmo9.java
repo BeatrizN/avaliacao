@@ -16,6 +16,7 @@ public class Algoritmo9 {
         }
 
         int i = 2;
+
         while (i <= (n - 1)) {
             if ((n % 2) == 0) {
                 return false;
