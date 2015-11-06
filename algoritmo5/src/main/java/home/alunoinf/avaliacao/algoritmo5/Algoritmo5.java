@@ -11,7 +11,7 @@ public class Algoritmo5 {
      * @param y Expoente.
      * @return Potencia x^y
      */
-    public static int algoritmo5(int x, int y){
+    public static int algoritmo5(int x, int y) {
         if ((x <= 0) || (y < 0)) {
             throw new IllegalArgumentException("Número inválido");
         }
