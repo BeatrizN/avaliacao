@@ -15,9 +15,11 @@ public class Algoritmo10 {
         if (n < 2) {
             throw new IllegalArgumentException("Número menor que dois");
         }
+
         if (a.length < (n + 1)) {
             throw new IllegalArgumentException("Tamanho do vetor");
         }
+
         for (int i = 2; i <= n; i++) {
             if (a[i] != 0) {
                 throw new IllegalArgumentException("Número menor que zero");
@@ -29,6 +31,7 @@ public class Algoritmo10 {
         while(i <= n/2) {
             if (a[i] == 0) {
                 int c = i + i;
+
                 while (c <= n) {
                     a[c] = 1;
                     c += i;
