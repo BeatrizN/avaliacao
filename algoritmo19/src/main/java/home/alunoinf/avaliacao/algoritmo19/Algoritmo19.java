@@ -29,6 +29,7 @@ public class Algoritmo19 {
             e += t;
             i++;
         }
+        
         return (int) e;
     }
 }

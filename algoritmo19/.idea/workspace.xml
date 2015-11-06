@@ -73,19 +73,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Algoritmo19.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="Algoritmo19.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/home/alunoinf/avaliacao/algoritmo19/Algoritmo19.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="0" selection-start="532" selection-end="532" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="645">
+            <state line="31" column="8" selection-start="708" selection-end="708" vertical-scroll-proportion="0.5332569" vertical-offset="0" max-vertical-offset="872">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Algoritmo19Test.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Algoritmo19Test.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/home/alunoinf/avaliacao/algoritmo19/Algoritmo19Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="4" selection-start="297" selection-end="297" vertical-scroll-proportion="0.18922019" vertical-offset="0" max-vertical-offset="872">
+            <state line="11" column="0" selection-start="293" selection-end="293" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="435">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -104,8 +104,8 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/home/alunoinf/avaliacao/algoritmo19/Algoritmo19.java" />
         <option value="$PROJECT_DIR$/src/test/java/home/alunoinf/avaliacao/algoritmo19/Algoritmo19Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/home/alunoinf/avaliacao/algoritmo19/Algoritmo19.java" />
       </list>
     </option>
   </component>
@@ -488,12 +488,12 @@
       <created>1446653800106</created>
       <updated>1446653800106</updated>
       <workItem from="1446653803004" duration="655000" />
-      <workItem from="1446853376586" duration="85000" />
+      <workItem from="1446853376586" duration="216000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="740000" />
+    <option name="totallyTimeSpent" value="871000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="260" y="18" width="1400" height="1000" extended-state="0" />
@@ -578,19 +578,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/home/alunoinf/avaliacao/algoritmo19/Algoritmo19.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="0" selection-start="532" selection-end="532" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="645">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/home/alunoinf/avaliacao/algoritmo19/Algoritmo19Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="4" selection-start="297" selection-end="297" vertical-scroll-proportion="0.18922019" vertical-offset="0" max-vertical-offset="872">
+        <state line="11" column="0" selection-start="293" selection-end="293" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="435">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/home/alunoinf/avaliacao/algoritmo19/Algoritmo19.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="8" selection-start="708" selection-end="708" vertical-scroll-proportion="0.5332569" vertical-offset="0" max-vertical-offset="872">
+          <folding />
         </state>
       </provider>
     </entry>

@@ -9,7 +9,7 @@ public class Algoritmo19Test {
     public void testPrimeiroParametroInvalido() throws Exception {
         Algoritmo19.algoritmo19(0, 10);
     }
-    
+
     @Test(expected = IllegalArgumentException.class)
     public void testSegundoParametroInvalido() throws Exception {
         Algoritmo19.algoritmo19(3, 1);
