@@ -11,7 +11,7 @@ public class Algoritmo14 {
      * @param n Número natural.
      * @return Somatório de n.
      */
-    public static int algoritmo14(int n){
+    public static int algoritmo14(int n) {
         if (n < 1) {
             throw new IllegalArgumentException("Número inválido");
         }
@@ -19,9 +19,10 @@ public class Algoritmo14 {
         int i = 1;
         int s = 0;
         int d;
+
         while (i <= n) {
             d = 1 + i * i;
-            s = s + 1/d;
+            s += 1/d;
             i++;
         }
 
