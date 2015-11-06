@@ -25,10 +25,10 @@ public class Algoritmo10 {
         }
 
         int i = 2;
-        int c = 0;
+
         while(i <= n/2) {
             if (a[i] == 0) {
-                c = i + i;
+                int c = i + i;
                 while (c <= n) {
                     a[c] = 1;
                     c += i;
