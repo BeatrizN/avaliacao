@@ -33,23 +33,45 @@ public class Algoritmo18 {
         return (int) e;
     }
 
-    public static int potencia(int base, int expoente) {
+    public static int potencia(int x, int y) {
+
+        /**
+         * Classe para calcular potencia de números naturais utilizando multiplicacao.
+         * @param x Base.
+         * @param y Expoente.
+         * @return Potencia x^y
+         */
         int i = 1;
         int p = 1;
 
-        while(i <= expoente) {
-            p = p * base;
+        while(i <= y) {
+            p *= x;
             i++;
         }
 
         return p;
     }
 
-    public static int fatorial(int i) {
-        if (i == 1) {
-            return 1;
+    public static int fatorial(int n) {
+
+        /**
+         * Classe que calcula o fatorial de um número.
+         * @param n Número natural.
+         * @return Fatorial de n.
+         */
+        if (n < 1) {
+            throw new IllegalArgumentException("Número inválido");
         }
 
-        return i * fatorial(i - 1);
+        int i = 2;
+        int f = 1;
+
+        while (i <= n) {
+            f *= i;
+            i++;
+        }
+
+        return f;
     }
 }
+

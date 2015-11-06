@@ -9,10 +9,12 @@ public class Algoritmo18Test {
     public void testPrimeiroParametroInvalido() throws Exception {
         Algoritmo18.algoritmo18(0, 8);
     }
+
     @Test(expected = IllegalArgumentException.class)
     public void testSegundoParametroInvalido() throws Exception {
         Algoritmo18.algoritmo18(3, 1);
     }
+
     @Test
     public void testCasoTrivial() {
         Assert.assertEquals(5, Algoritmo18.algoritmo18(2, 2));
