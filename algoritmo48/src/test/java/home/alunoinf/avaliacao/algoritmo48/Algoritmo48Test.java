@@ -7,7 +7,7 @@ public class Algoritmo48Test {
 
     @Test(expected = IllegalArgumentException.class)
     public void testParametroInvalido() throws Exception {
-        Algoritmo48.algoritmo48(new int[] { 1, 22, 4, 9}, -6);
+        Algoritmo48.algoritmo48(new int[] { 1, 22, 4, 9 }, -6);
         Algoritmo48.algoritmo48(new int[] { 10, 9, 5 }, 9);
     }
 
@@ -16,7 +16,7 @@ public class Algoritmo48Test {
         int[] a = { 0, 1, 22, 4, 9, 7, 1};
         Algoritmo48.algoritmo48(a, 5);
 
-        int[] expected = { 0, 22, 9, 7, 4, 1, 1};
+        int[] expected = { 0, 22, 9, 7, 4, 1, 1 };
         Assert.assertArrayEquals(expected, a);
     }
 
