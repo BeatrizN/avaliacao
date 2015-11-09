@@ -4,6 +4,7 @@ import org.junit.Assert;
 import org.junit.Test;
 
 public class Algoritmo25Test {
+
     @Test(expected = IllegalArgumentException.class)
     public void testPrimeiroParametroInvalido() throws Exception {
         Algoritmo25.algoritmo25(-5, 3);
