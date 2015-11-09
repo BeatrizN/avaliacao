@@ -1,6 +1,7 @@
 package home.alunoinf.avaliacao.algoritmo27;
+
 /**
- *Classe que retorna o resto  da divisão de dois inteiros utilizando subtração.
+ * Classe que retorna o resto  da divisão de dois números inteiros.
  */
 public class Algoritmo27 {
 
@@ -10,12 +11,13 @@ public class Algoritmo27 {
      * @param y Divisor.
      * @return Resto.
      */
-    public static long algoritmo27(int x, int y) {
+    public static int algoritmo27(int x, int y) {
         if ((x <= 0) || (y < 0)) {
             throw new IllegalArgumentException("Número inválido");
         }
 
         int s = x;
+
         while(s >= y) {
             s -= y;
         }

@@ -4,9 +4,11 @@ import org.junit.Assert;
 import org.junit.Test;
 
 public class Algoritmo27Test {
+
     @Test(expected = IllegalArgumentException.class)
     public void testPrimeiroParametroInvalido() throws Exception {
         Algoritmo27.algoritmo27(0, 33);
+        Algoritmo27.algoritmo27(-9, 3);
     }
 
     @Test(expected = IllegalArgumentException.class)
