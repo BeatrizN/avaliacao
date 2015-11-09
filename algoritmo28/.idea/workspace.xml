@@ -64,19 +64,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="pom.xml" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="0" selection-start="613" selection-end="613" vertical-scroll-proportion="0.42009884" vertical-offset="0" max-vertical-offset="607">
+            <state line="18" column="0" selection-start="614" selection-end="614" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="360">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Algoritmo28.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="Algoritmo28.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/home/alunoinf/avaliacao/algoritmo28/Algoritmo28.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="29" selection-start="643" selection-end="643" vertical-scroll-proportion="0.0" vertical-offset="908" max-vertical-offset="1515">
+            <state line="14" column="4" selection-start="333" selection-end="333" vertical-scroll-proportion="0.34596375" vertical-offset="0" max-vertical-offset="1515">
               <folding />
             </state>
           </provider>
@@ -103,8 +103,8 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/home/alunoinf/avaliacao/algoritmo28/Algoritmo28Test.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/home/alunoinf/avaliacao/algoritmo28/Algoritmo28.java" />
       </list>
     </option>
@@ -489,12 +489,12 @@
       <updated>1446757249837</updated>
       <workItem from="1446757253571" duration="1647000" />
       <workItem from="1446761351173" duration="1990000" />
-      <workItem from="1447080780295" duration="361000" />
+      <workItem from="1447080780295" duration="613000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3998000" />
+    <option name="totallyTimeSpent" value="4250000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-3" width="1936" height="1047" extended-state="6" />
@@ -595,13 +595,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/home/alunoinf/avaliacao/algoritmo28/Algoritmo28.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="29" selection-start="643" selection-end="643" vertical-scroll-proportion="0.0" vertical-offset="101" max-vertical-offset="1515">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/home/alunoinf/avaliacao/algoritmo28/Algoritmo28Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="19" column="0" selection-start="552" selection-end="552" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="375">
@@ -613,7 +606,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="0" selection-start="613" selection-end="613" vertical-scroll-proportion="0.42009884" vertical-offset="0" max-vertical-offset="607">
+        <state line="18" column="0" selection-start="614" selection-end="614" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="360">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/home/alunoinf/avaliacao/algoritmo28/Algoritmo28.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="4" selection-start="333" selection-end="333" vertical-scroll-proportion="0.34596375" vertical-offset="0" max-vertical-offset="1515">
           <folding />
         </state>
       </provider>
