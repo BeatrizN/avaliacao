@@ -22,6 +22,7 @@ public class Algoritmo29 {
             r = (r + (n / r)) / 2;
             i--;
         }
+
         return r;
     }
 }
