@@ -33,6 +33,7 @@ public class Algoritmo28 {
             k--;
         }
     }
+
     public static int mod(int x, int y) {
 
         /**
@@ -49,6 +50,7 @@ public class Algoritmo28 {
 
         return s;
     }
+
     public static int produto(int a, int b) {
 
         /**
@@ -67,6 +69,7 @@ public class Algoritmo28 {
 
         return s;
     }
+
     public static int divideSomas(int x, int y) {
 
         /**
