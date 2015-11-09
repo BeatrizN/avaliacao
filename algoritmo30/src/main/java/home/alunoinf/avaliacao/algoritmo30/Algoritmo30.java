@@ -17,6 +17,7 @@ public class Algoritmo30 {
         if ((g < 1) || (a[g] == 0)) {
             throw new IllegalArgumentException("g menor que zero ou a igual a zero");
         }
+
         int p = a[0];
         int i = 1;
         int t = potencia(x, g);
@@ -26,15 +27,23 @@ public class Algoritmo30 {
             p = (p + a[i] * t);
             i += 1;
         }
+
         return p;
     }
 
     public static int potencia(int x, int y) {
+
+        /**
+         * Classe para calcular produto de dois numeros naturais utilizando soma.
+         * @param x primeiro fator.
+         * @param y segundo fator.
+         * @return Produto de x * y.
+         */
         int i = 1;
         int p = 1;
 
         while (i <= y) {
-            p = p * x;
+            p *= x;
             i++;
         }
 

@@ -4,12 +4,12 @@ import org.junit.Assert;
 import org.junit.Test;
 
 public class Algoritmo30Test {
+
     @Test(expected = IllegalArgumentException.class)
     public void testSegundoParametroInvalido() throws Exception {
         int a[] = {1, 0 ,9, 5};
         Algoritmo30.algoritmo30(2, 0, a);
     }
-
 
     @Test(expected = IllegalArgumentException.class)
     public void testUltimoParametroInvalido() throws Exception {
