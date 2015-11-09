@@ -1,26 +1,31 @@
 package home.alunoinf.avaliacao.algoritmo31;
 
 /**
- * Created by alunoinf on 05/11/15.
+ * Classe para calcular polinomios Horner.
  */
 public class Algoritmo31 {
 
-    public static int polsimples(int x, int g, int[] a) {
-        if ((g < 1) || (a[g] == 0)) {
-            throw new IllegalArgumentException("g menor que zero ou a igual a zero");
+    /**
+     * Classe para calcular polinomios Horner.
+     * @param x Número que multiplica cada valor do vetor.
+     * @param g Número inteiro.
+     * @param a Vetor
+     * @return Valor do polinomio de Horner.
+     */
+    public static int algoritmo31(int x, int g, int[] a) {
+        if (g < 1) {
+            throw new IllegalArgumentException("Número 'g' inválido");
         }
 
-        double p = a[0];
-        int i = 1;
-        double t = Math.pow(x, g);
+        int p = a[g];
+        int i = g - 1;
 
-        while (i <= g) {
-            t = Math.pow(x, i);
-            p = (p + a[i] * t);
-            i += 1;
+        while (i >= 0) {
+            p = (p * x + a[i]);
+            i--;
         }
 
-        return (int) p;
+        return p;
     }
 }
 
