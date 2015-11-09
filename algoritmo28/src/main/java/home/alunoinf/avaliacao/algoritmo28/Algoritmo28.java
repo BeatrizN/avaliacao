@@ -35,6 +35,13 @@ public class Algoritmo28 {
     }
 
     public static int mod(int x, int y) {
+
+        /**
+         * Classe que retorna o resto  da divisão de dois números inteiros utilizando subtração.
+         * @param x Dividendo.
+         * @param y Divisor.
+         * @return Resto.
+         */
         int s = x;
 
         while(s >= y) {
@@ -45,6 +52,13 @@ public class Algoritmo28 {
     }
 
     public static int produto(int a, int b) {
+
+        /**
+         * Classe para calcular produto de dois numeros naturais utilizando soma.
+         * @param a primeiro fator.
+         * @param b segundo fator.
+         * @return Produto de a e b.
+         */
         int i = 1;
         int s = 0;
 
@@ -52,11 +66,18 @@ public class Algoritmo28 {
             s += a;
             i++;
         }
+
         return s;
     }
 
     public static int divideSomas(int x, int y) {
 
+        /**
+         * Classe que calcula a divisão de inteiros utilizando soma.
+         * @param x Dividendo.
+         * @param y Divisor.
+         * @return Quociente.
+         */
         if ((x < 0) || (y <= 0)) {
             throw new IllegalArgumentException("Número inválido");
         }
