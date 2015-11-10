@@ -3,7 +3,6 @@ package home.alunoinf.avaliacao.algoritmo37;
 /**
  * Classe para calcular a função Ackerman.
  */
-
 public class Algoritmo37 {
 
     /**
@@ -15,9 +14,7 @@ public class Algoritmo37 {
      * @param y Número natural inteiro.
      * @return
      */
-
     public static int algoritmo37(int x, int y) {
-
         if ((x < 0) || (y < 0)) {
             throw new IllegalArgumentException("Valor inválido");
         }
