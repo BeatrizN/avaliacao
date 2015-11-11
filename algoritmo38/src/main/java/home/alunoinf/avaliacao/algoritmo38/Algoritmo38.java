@@ -29,7 +29,7 @@ public class Algoritmo38 {
          */
         int r = 1;
 
-        for(int i = 5; i >= 0; i--)    {
+        for(int i = 5; i >= 0; i--) {
             r = (r + (n / r)) / 2;
         }
 
