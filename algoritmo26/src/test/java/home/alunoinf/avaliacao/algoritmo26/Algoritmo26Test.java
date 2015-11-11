@@ -16,7 +16,7 @@ public class Algoritmo26Test {
     }
 
     @Test
-    public void testCasoTrivial() {
+    public void testCasosTriviais() {
         Assert.assertEquals(0, Algoritmo26.algoritmo26(18, 2));
         Assert.assertEquals(1, Algoritmo26.algoritmo26(7, 2));
         Assert.assertEquals(2, Algoritmo26.algoritmo26(2501, 3));

@@ -21,6 +21,13 @@ public class Algoritmo26 {
     }
 
     public static int divideSubtracao(int x, int y) {
+
+        /**
+         * Classe que calcula a divisão de inteiros utilizando subtração.
+         * @param x Dividendo.
+         * @param y Divisor.
+         * @return Quociente.
+         */
         int d = 0;
         int s = x;
 
