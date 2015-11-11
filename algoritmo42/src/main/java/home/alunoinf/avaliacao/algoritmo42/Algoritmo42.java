@@ -10,16 +10,14 @@ public class Algoritmo42 {
      * @param n número natural.
      * @return soma.
      */
-    public static int algoritmo42(int n){
+    public static int algoritmo42(int n) {
         if (n < 1) {
             throw new IllegalArgumentException("Número inválido");
         }
 
         if ( n == 1) {
             return 1;
-        }
-
-        else {
+        } else {
             return (algoritmo42(n - 1) + n);
         }
     }
