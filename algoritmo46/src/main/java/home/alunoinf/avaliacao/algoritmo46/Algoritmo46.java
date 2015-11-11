@@ -10,7 +10,7 @@ public class Algoritmo46 {
      * @param n número natural.
      * @return soma dos n primeiros números do Array.
      */
-    public static int algoritmo46(int [] a, int n){
+    public static int algoritmo46(int [] a, int n) {
         if (n < 0) {
             throw new IllegalArgumentException("Número inválido");
         }
