@@ -11,7 +11,7 @@ public class Algoritmo15 {
      * @param n Número natural.
      * @return Pi.
      */
-    public static int algoritmo15(int n) {
+    public static long algoritmo15(int n) {
         if (n < 1) {
             throw new IllegalArgumentException("Número inválido");
         }
@@ -22,9 +22,9 @@ public class Algoritmo15 {
         int p = 0;
 
         while (i <= n) {
-            d = d + 2;
+            d += 2;
             s = -1 * s;
-            p = p + ((4 * s) / d);
+            p += (4 * s) / d;
             i++;
         }
 
