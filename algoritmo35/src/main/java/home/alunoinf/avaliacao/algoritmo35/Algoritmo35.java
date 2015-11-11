@@ -1,14 +1,14 @@
 package home.alunoinf.avaliacao.algoritmo35;
 
 /**
- * Classe para calcular LUHN.
+ * Classe para calcular a Fórmula de  LUHN.
  */
 public class Algoritmo35 {
 
     /**
-     * Classe para calcular LUHN.
+     * Classe para calcular a Fórmula de LUHN.
      * @param n Vetor ne tamanho >= 2.
-     * @return
+     * @return O resultado da formula em relaçaõ ao vetor.
      */
     public static int algoritmo35(int[] n) {
         if (n.length < 2) {
@@ -21,12 +21,10 @@ public class Algoritmo35 {
         int l = k - 1; // Remove dígitos verificador do cômputo.
         boolean a = false;
 
-        while(l > 0) {
+        while(l >= 0) {
             if (a) {
                 p += n[l]; // Acumula parcelas ímpares.
-            }
-
-            else {
+            } else {
                 int t = n[l] * 2; // Dobro do elemento de ordem ímpar.
                 i = i + t / 10 + mod(t, 10); // Acumula dígitos de t.
             }
