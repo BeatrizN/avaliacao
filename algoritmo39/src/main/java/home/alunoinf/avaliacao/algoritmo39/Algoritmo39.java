@@ -53,9 +53,7 @@ public class Algoritmo39 {
          */
         if (n == 0) {
             return 0;
-        }
-
-        else {
+        } else {
             int i = 2;
             int f = 1;
 
