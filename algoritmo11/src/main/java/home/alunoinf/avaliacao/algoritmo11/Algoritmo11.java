@@ -11,7 +11,7 @@ public class Algoritmo11 {
      * @param b Número natural.
      * @return MDC.
      */
-    public static int algoritmo11(int a, int b){
+    public static int algoritmo11(int a, int b) {
         if ((a < b) || (b <= 0)) {
             throw new IllegalArgumentException("Número inválido");
         }
