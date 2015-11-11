@@ -1,8 +1,8 @@
 package home.alunoinf.avaliacao.algoritmo30;
+
 /**
  * Classe para calcular polinomios.
  */
-
 public class Algoritmo30 {
 
     /**

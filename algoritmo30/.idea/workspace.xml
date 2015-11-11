@@ -73,19 +73,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Algoritmo30.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="Algoritmo30.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/home/alunoinf/avaliacao/algoritmo30/Algoritmo30.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="45" column="16" selection-start="1116" selection-end="1116" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="885">
+            <state line="24" column="24" selection-start="653" selection-end="653" vertical-scroll-proportion="0.625" vertical-offset="0" max-vertical-offset="885">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Algoritmo30Test.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Algoritmo30Test.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/home/alunoinf/avaliacao/algoritmo30/Algoritmo30Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="31" column="0" selection-start="844" selection-end="844" vertical-scroll-proportion="0.8072917" vertical-offset="0" max-vertical-offset="576">
+            <state line="28" column="0" selection-start="787" selection-end="787" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -519,14 +519,15 @@
       <updated>1446659605199</updated>
       <workItem from="1446659608009" duration="676000" />
       <workItem from="1447082150870" duration="137000" />
+      <workItem from="1447254967006" duration="173000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="813000" />
+    <option name="totallyTimeSpent" value="986000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="181" y="35" width="1400" height="1000" extended-state="0" />
+    <frame x="181" y="35" width="1400" height="1000" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -549,7 +550,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32925472" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32925472" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -587,6 +588,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/home/alunoinf/avaliacao/algoritmo30/Algoritmo30.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state line="45" column="16" selection-start="1116" selection-end="1116" vertical-scroll-proportion="0.0" vertical-offset="675" max-vertical-offset="885">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/home/alunoinf/avaliacao/algoritmo30/Algoritmo30Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="0" selection-start="844" selection-end="844" vertical-scroll-proportion="0.0" vertical-offset="465" max-vertical-offset="555">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="0" selection-start="613" selection-end="613" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="360">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/home/alunoinf/avaliacao/algoritmo30/Algoritmo30.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state line="9" column="81" selection-start="247" selection-end="247" vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="750">
           <folding />
         </state>
@@ -608,19 +632,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/home/alunoinf/avaliacao/algoritmo30/Algoritmo30.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="45" column="16" selection-start="1116" selection-end="1116" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="885">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/home/alunoinf/avaliacao/algoritmo30/Algoritmo30Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="0" selection-start="844" selection-end="844" vertical-scroll-proportion="0.8072917" vertical-offset="0" max-vertical-offset="576">
+        <state line="28" column="0" selection-start="787" selection-end="787" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/home/alunoinf/avaliacao/algoritmo30/Algoritmo30.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="24" selection-start="653" selection-end="653" vertical-scroll-proportion="0.625" vertical-offset="0" max-vertical-offset="885">
+          <folding />
         </state>
       </provider>
     </entry>
