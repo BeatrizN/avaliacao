@@ -8,7 +8,7 @@ public class Algoritmo23 {
     /**
      * Classe que calcula a soma dos divisores de um número natural.
      * @param n Número natural.
-     * @returnSoma dos divisores de n.
+     * @return Soma dos divisores de n.
      */
     public static int algoritmo23(int n) {
         if (n <= 0) {
