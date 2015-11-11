@@ -30,6 +30,13 @@ public class Algoritmo23 {
     }
 
     public static int mod(int x, int y) {
+
+        /**
+         * Classe que retorna o resto  da divisão de dois números inteiros utilizando subtração.
+         * @param x Dividendo.
+         * @param y Divisor.
+         * @return Resto.
+         */
         int s = x;
 
         while(s >= y) {
