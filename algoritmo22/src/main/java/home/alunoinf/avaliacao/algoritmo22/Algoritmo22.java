@@ -24,6 +24,12 @@ public class Algoritmo22 {
     }
 
     public static int somaDivisores(int n) {
+
+        /**
+         * Classe que calcula a soma dos divisores de um número natural.
+         * @param n Número natural.
+         * @return Soma dos divisores de n.
+         */
         int d = 2;
         int s = 1;
 
