@@ -18,14 +18,11 @@ public class Algoritmo31Test {
     }
 
     @Test
-    public void testCasosDeFronteira() {
-        int [] a = {3, 2, 5, 1, 4};
-        Assert.assertEquals(99, Algoritmo31.algoritmo31(2, 4, a));
-    }
-
-    @Test
-    public void testCasoTrivial() {
+    public void testCasosTriviais() {
         int [] a = {3, -2, -4, -8};
         Assert.assertEquals(-11, Algoritmo31.algoritmo31( 1, 3, a));
+
+        int [] b = {3, 2, 5, 1, 4};
+        Assert.assertEquals(99, Algoritmo31.algoritmo31(2, 4, b));
     }
 }
