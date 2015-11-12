@@ -67,7 +67,7 @@
       <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="0" selection-start="611" selection-end="611" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="360">
+            <state line="17" column="0" selection-start="611" selection-end="611" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="360">
               <folding />
             </state>
           </provider>
@@ -76,7 +76,7 @@
       <file leaf-file-name="Algoritmo1.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/home/alunoinf/avaliacao/algoritmo1/Algoritmo1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="0" selection-start="156" selection-end="156" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
+            <state line="6" column="0" selection-start="156" selection-end="156" vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="510">
               <folding />
             </state>
           </provider>
@@ -85,7 +85,7 @@
       <file leaf-file-name="Algoritmo1Test.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/home/alunoinf/avaliacao/algoritmo1/Algoritmo1Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="68" selection-start="592" selection-end="592" vertical-scroll-proportion="0.2937976" vertical-offset="0" max-vertical-offset="919">
+            <state line="18" column="69" selection-start="593" selection-end="593" vertical-scroll-proportion="0.2937976" vertical-offset="0" max-vertical-offset="919">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -143,6 +143,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -204,7 +205,6 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -221,11 +221,11 @@
     <property name="dynamic.classpath" value="false" />
   </component>
   <component name="RecentsManager">
-    <key name="CreateTestDialog.Recents.Supers">
-      <recent name="" />
-    </key>
     <key name="CreateTestDialog.RecentsKey">
       <recent name="home.alunoinf.avaliacao.algoritmo1" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
     </key>
   </component>
   <component name="RunManager" selected="JUnit.Algoritmo1Test.testQuartoParametroMesInvalido">
@@ -610,11 +610,12 @@
       <workItem from="1446153853947" duration="3199000" />
       <workItem from="1446759221534" duration="214000" />
       <workItem from="1446765752074" duration="26000" />
+      <workItem from="1447370230903" duration="334000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3439000" />
+    <option name="totallyTimeSpent" value="3773000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-3" width="1936" height="1047" extended-state="6" />
@@ -685,6 +686,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/home/alunoinf/avaliacao/algoritmo1/Algoritmo1Test.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="68" selection-start="592" selection-end="592" vertical-scroll-proportion="0.0" vertical-offset="270" max-vertical-offset="735">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="0" selection-start="611" selection-end="611" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="360">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/home/alunoinf/avaliacao/algoritmo1/Algoritmo1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="0" selection-start="156" selection-end="156" vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="510">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/home/alunoinf/avaliacao/algoritmo1/Algoritmo1Test.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state line="24" column="44" selection-start="811" selection-end="811" vertical-scroll-proportion="0.0" vertical-offset="360" max-vertical-offset="735">
           <folding>
             <element signature="imports" expanded="true" />
@@ -731,7 +755,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/home/alunoinf/avaliacao/algoritmo1/Algoritmo1Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="68" selection-start="592" selection-end="592" vertical-scroll-proportion="0.2937976" vertical-offset="0" max-vertical-offset="919">
+        <state line="18" column="69" selection-start="593" selection-end="593" vertical-scroll-proportion="0.2937976" vertical-offset="0" max-vertical-offset="919">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

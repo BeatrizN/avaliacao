@@ -1,4 +1,4 @@
-package home.alunoinf.avaliacao.algoritmo1;
+package br.ufg.inf.es.construcao.algoritmo1;
 
 /**
  * Classe que retorna dia da semana usando uma data de entrada (dd/mm/aaaa).

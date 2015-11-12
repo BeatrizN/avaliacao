@@ -1,5 +1,6 @@
-package home.alunoinf.avaliacao.algoritmo1;
+package br.ufg.inf.es.construcao.algoritmo1;
 
+import br.ufg.inf.es.construcao.algoritmo1.Algoritmo1;
 import org.junit.Assert;
 import org.junit.Test;
 
